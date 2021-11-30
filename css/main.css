@@ -105,7 +105,7 @@ a {
 
 .card__title {
   color: white;
-  margin: 1.1em 0 0.65em 0;
+  margin: 1.1em 0 0.75em 0;
   font-size: 2.2em;
   cursor: pointer;
   -webkit-transition: 150ms ease-in-out;
@@ -134,7 +134,7 @@ a {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin-top: 2em;
+  margin-top: 2.2em;
   padding-bottom: 2.2em;
   border-bottom: 1px solid #2f415b;
 }
